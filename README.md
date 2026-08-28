@@ -4,26 +4,6 @@
 </picture>
 
 
-
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:100A0F,20:1C0D18,45:EF93C4,70:FF69B4,100:F8BBD0&text=Gunneka%20Dutta&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=engineering%20%7C%20ai%20%7C%20design%20%7C%20building&descAlignY=59&descSize=17&animation=fadeIn"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F8BBD0,25:EF93C4,55:FF69B4,80:EF93C4,100:F8BBD0&text=Gunneka%20Dutta&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=engineering%20%7C%20ai%20%7C%20design%20%7C%20building&descAlignY=59&descSize=17&animation=fadeIn"
-  />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F8BBD0,50:EF93C4,100:FF69B4&text=Gunneka%20Dutta&fontColor=ffffff&fontSize=58&fontAlignY=38"
-    width="100%"
-    alt="Pink cybercore banner"
-  />
-</picture>
-
 <h1>
   Hey there, I'm <i>Gunneka</i> ♡
 </h1>
