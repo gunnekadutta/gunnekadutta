@@ -172,7 +172,7 @@ Collaborations • Projects • Opportunities
 
 <br><br>
 
-<h2>୨୧ GitHub Analytics ୨୧</h2>
+<h2> GitHub Analytics </h2>
 
 <p>
   <img
@@ -180,11 +180,11 @@ Collaborations • Projects • Opportunities
     width="49%"
     alt="GitHub streak"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gunnekadutta&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&include_all_commits=true&count_private=true"
-    width="49%"
-    alt="GitHub stats"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=gunnekadutta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0"
+  width="49%"
+  alt="GitHub stats"
+/>
 </p>
 
 <br>
