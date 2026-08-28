@@ -1,39 +1,33 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO BANNER                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:120812,25:24101E,50:EF93C4,75:FF69B4,100:F8BBD0&text=GUNNEKA%20DUTTA&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=BUILD%20%7C%20CREATE%20%7C%20BREAK%20%7C%20REPEAT&descAlignY=58&descSize=16&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:100A0F,20:1C0D18,45:EF93C4,70:FF69B4,100:F8BBD0&text=Gunneka%20Dutta&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=engineering%20%7C%20ai%20%7C%20design%20%7C%20building&descAlignY=59&descSize=17&animation=fadeIn"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F8BBD0,25:EF93C4,50:FF69B4,75:EF93C4,100:F8BBD0&text=GUNNEKA%20DUTTA&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=BUILD%20%7C%20CREATE%20%7C%20BREAK%20%7C%20REPEAT&descAlignY=58&descSize=16&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F8BBD0,25:EF93C4,55:FF69B4,80:EF93C4,100:F8BBD0&text=Gunneka%20Dutta&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=engineering%20%7C%20ai%20%7C%20design%20%7C%20building&descAlignY=59&descSize=17&animation=fadeIn"
   />
   <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F8BBD0,50:EF93C4,100:FF69B4&text=Gunneka%20Dutta&fontColor=ffffff&fontSize=58&fontAlignY=38"
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F8BBD0,50:EF93C4,100:FF69B4&text=GUNNEKA%20DUTTA&fontColor=ffffff&fontSize=52&fontAlignY=38"
-    alt="Cybercore pink banner"
+    alt="Pink cybercore banner"
   />
 </picture>
 
 <br>
 
-# Hey there, I'm Gunneka 
+<h1>
+  Hey there, I'm <i>Gunneka</i> ♡
+</h1>
 
 <img
-<img
-  src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=750&lines=Engineering+%2B+Technology+Enthusiast;Future+Tech+Builder;Learning.+Building.+Breaking.+Repeating.;Turning+Ideas+Into+Code;Welcome+to+my+digital+space"
+  src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=29&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=55&lines=Mechanical+Engineering+%40+IGDTUW;Learning+Machine+Learning+%26+UI%2FUX;Building+SaveIt;AI+%E2%80%A2+Data+%E2%80%A2+Software+%E2%80%A2+Automation;Turning+ideas+into+something+real+%E2%9C%A7"
   alt="Typing animation"
-/>
 />
 
 <br>
-
-<!-- GitHub Badges -->
 
 <a href="https://github.com/gunnekadutta">
   <img
@@ -41,47 +35,255 @@
     alt="GitHub followers"
   />
 </a>
-
 &nbsp;
-
 <a href="https://github.com/gunnekadutta?tab=repositories">
   <img
     src="https://img.shields.io/github/stars/gunnekadutta?label=STARS&style=for-the-badge&labelColor=0D1117&color=FF69B4"
     alt="GitHub stars"
   />
 </a>
-
 &nbsp;
-
 <img
   src="https://komarev.com/ghpvc/?username=gunnekadutta&label=PROFILE+VIEWS&style=for-the-badge&labelColor=0D1117&color=F8BBD0"
   alt="Profile views"
 />
 
-<br><br>
+<br><br><br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           ABOUT ME                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2>╭─ About Me ─╮</h2>
+<h2>୨୧ About Me ୨୧</h2>
 
 <table align="center" width="90%">
 <tr>
 
 <td width="65%" valign="middle">
 
-### `> whoami`
+<h3><i>hello, world ♡</i></h3>
 
-Hey! I'm **Gunneka**, a Mechanical Engineering student and technology enthusiast who loves turning ideas into things that actually work.
+<p>
+I'm <b>Gunneka</b> — a Mechanical Engineering student at
+<b>IGDTUW</b>, currently exploring the softer and more creative side
+of technology through <b>Machine Learning, UI/UX, AI, Data and Software</b>.
+</p>
 
-I'm currently exploring the intersection of **software, data, automation, AI and engineering** while continuously building my skills through projects and experimentation.
+<p>
+I love learning by building — taking an idea, experimenting with it,
+breaking things along the way, and eventually turning it into something
+that actually works.
+</p>
 
-```text
-╭──────────────────────────────────────╮
-│  ✦ Engineering Student               │
-│  ✦ Building + Learning               │
-│  ✦ Machine Learning                  │
-│  ✦ UI / UX                           │
-│  ✦ AI + Data + Software              │
-╰──────────────────────────────────────╯
+<br>
+
+<p align="left">
+
+<b>Currently</b><br>
+Mechanical Engineering @ IGDTUW
+
+<br><br>
+
+<b>Learning</b><br>
+Machine Learning • UI/UX
+
+<br><br>
+
+<b>Building</b><br>
+SaveIt
+
+<br><br>
+
+<b>Interested in</b><br>
+AI • Data • Software • Automation
+
+<br><br>
+
+<b>Based in</b><br>
+New Delhi
+
+<br><br>
+
+<b>Open to</b><br>
+Collaborations • Projects • Opportunities
+
+</p>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+  width="270"
+  alt="Coding animation"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/STATUS-ONLINE-FF69B4?style=for-the-badge&labelColor=0D1117"
+  alt="Online"
+/>
+
+<br><br>
+
+<sub><i>currently somewhere between<br>an idea & a finished project ♡</i></sub>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<h2>୨୧ Tech Stack ୨୧</h2>
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=python,cpp,c,html,css,javascript,sql,mysql,git,github,vscode,figma&perline=6&theme=dark"
+    alt="Tech stack"
+  />
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+  <b>LANGUAGES</b><br>
+  Python • C • C++ • JavaScript
+</td>
+
+<td align="center">
+  <b>DATA</b><br>
+  SQL • MySQL • NumPy
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <b>WEB</b><br>
+  HTML • CSS • JavaScript
+</td>
+
+<td align="center">
+  <b>TOOLS</b><br>
+  Git • GitHub • VS Code • Figma
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<h2>୨୧ GitHub Analytics ୨୧</h2>
+
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gunnekadutta&theme=transparent&hide_border=true&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4&sideLabels=EF93C4&dates=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4"
+    width="49%"
+    alt="GitHub streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gunnekadutta&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&include_all_commits=true&count_private=true"
+    width="49%"
+    alt="GitHub stats"
+  />
+</p>
+
+<br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=gunnekadutta&bg_color=00000000&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  width="95%"
+  alt="GitHub activity graph"
+/>
+
+<br><br>
+
+<h2>୨୧ Contribution Snake ୨୧</h2>
+
+<img
+  src="https://raw.githubusercontent.com/gunnekadutta/gunnekadutta/output/github-contribution-grid-snake.svg"
+  width="95%"
+  alt="GitHub contribution snake"
+/>
+
+<!--
+GitHub Action:
+Create .github/workflows/snake.yml
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=ff69b4&color_dots=#161b22,#24101e,#6b304f,#c95d91,#ff69b4
+
+      - name: Deploy Snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<br><br>
+
+<h2>୨୧ Let's Connect ୨୧</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/gunneka-dutta-4a2552320/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Gunneka%20Dutta-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=EF93C4"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:gunnekadutta@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-gunnekadutta%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4"
+      alt="Email"
+    />
+  </a>
+</p>
+
+<br>
+
+<h3>
+  <i>“build something you're proud of.”</i>
+</h3>
+
+<br>
+
+<code>♡ learn</code>
+&nbsp;&nbsp;
+<code>♡ create</code>
+&nbsp;&nbsp;
+<code>♡ experiment</code>
+&nbsp;&nbsp;
+<code>♡ repeat</code>
+
+<br><br><br>
+
+<p>
+  <i>thanks for stopping by ♡</i>
+</p>
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:FF69B4,30:EF93C4,70:F8BBD0,100:FF69B4&section=footer&animation=twinkling"
+  width="100%"
+  alt="Pink waving footer"
+/>
+
+</div>
