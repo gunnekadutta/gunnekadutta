@@ -16,8 +16,6 @@
   />
 </picture>
 
-<br>
-
 <h1>
   Hey there, I'm <i>Gunneka</i> ♡
 </h1>
@@ -48,7 +46,7 @@
   alt="Profile views"
 />
 
-<br><br><br>
+<br>
 
 <h2>୨୧ About Me ୨୧</h2>
 
@@ -78,29 +76,29 @@ that actually works.
 <b>Currently</b><br>
 Mechanical Engineering @ IGDTUW
 
-<br><br>
+<br>
 
-<b>Learning</b><br>
+<b>Learning</b>
 Machine Learning • UI/UX
 
-<br><br>
+<br>
 
-<b>Building</b><br>
+<b>Building</b>
 SaveIt
 
-<br><br>
+<br>
 
-<b>Interested in</b><br>
+<b>Interested in</b>
 AI • Data • Software • Automation
 
-<br><br>
+<br>
 
-<b>Based in</b><br>
+<b>Based in</b>
 New Delhi
 
-<br><br>
+<br>
 
-<b>Open to</b><br>
+<b>Open to</b>
 Collaborations • Projects • Opportunities
 
 </p>
@@ -115,14 +113,14 @@ Collaborations • Projects • Opportunities
   alt="Coding animation"
 />
 
-<br><br>
+<br>
 
 <img
   src="https://img.shields.io/badge/STATUS-ONLINE-FF69B4?style=for-the-badge&labelColor=0D1117"
   alt="Online"
 />
 
-<br><br>
+<br>
 
 <sub><i>currently somewhere between<br>an idea & a finished project ♡</i></sub>
 
@@ -131,9 +129,9 @@ Collaborations • Projects • Opportunities
 </tr>
 </table>
 
-<br><br>
+<br>
 
-<h2>୨୧ Tech Stack ୨୧</h2>
+<h2>Tech Stack</h2>
 
 <p>
   <img
@@ -159,18 +157,18 @@ Collaborations • Projects • Opportunities
 
 <tr>
 <td align="center">
-  <b>WEB</b><br>
+  <b>WEB</b>
   HTML • CSS • JavaScript
 </td>
 
 <td align="center">
-  <b>TOOLS</b><br>
+  <b>TOOLS</b>
   Git • GitHub • VS Code • Figma
 </td>
 </tr>
 </table>
 
-<br><br>
+<br>
 
 <h2> GitHub Analytics </h2>
 
@@ -180,16 +178,12 @@ Collaborations • Projects • Opportunities
     width="49%"
     alt="GitHub streak"
   />
-<img
-  src="https://github-readme-stats.vercel.app/api?username=gunnekadutta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0"
-  width="49%"
-  alt="GitHub stats"
-/>
+
 </p>
 
 <br>
 
-<h2>୨୧ Contribution Snake ୨୧</h2>
+<h2>Contribution Snake</h2>
 
 <img
   src="https://raw.githubusercontent.com/gunnekadutta/gunnekadutta/output/github-contribution-grid-snake.svg"
@@ -250,11 +244,6 @@ jobs:
 
 <br>
 
-<h3>
-  <i>“build something you're proud of.”</i>
-</h3>
-
-<br>
 
 <code>♡ learn</code>
 &nbsp;&nbsp;
