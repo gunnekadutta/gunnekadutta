@@ -22,11 +22,13 @@
 
 <br>
 
-# Hey there, I'm Gunneka 👾
+# Hey there, I'm Gunneka 
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Mechanical+Engineering+Student;Machine+Learning+%2B+UI%2FUX+Learner;Building+SaveIt+%F0%9F%92%97;AI+%E2%80%A2+Data+%E2%80%A2+Software+%E2%80%A2+Automation;Turning+Ideas+Into+Code;Welcome+to+my+digital+space"
+<img
+  src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=750&lines=Engineering+%2B+Technology+Enthusiast;Future+Tech+Builder;Learning.+Building.+Breaking.+Repeating.;Turning+Ideas+Into+Code;Welcome+to+my+digital+space"
   alt="Typing animation"
+/>
 />
 
 <br>
