@@ -47,13 +47,13 @@
 <h3><i>hello, world ♡</i></h3>
 
 <p>
-I'm <b>Gunneka</b> — a Mechanical Engineering student at
+I'm Gunneka a Mechanical Engineering student at
 <b>IGDTUW</b>, currently exploring the softer and more creative side
 of technology through <b>Machine Learning, UI/UX, AI, Data and Software</b>.
 </p>
 
 <p>
-I love learning by building — taking an idea, experimenting with it,
+I love learning by building ,taking an idea, experimenting with it,
 breaking things along the way, and eventually turning it into something
 that actually works.
 </p>
