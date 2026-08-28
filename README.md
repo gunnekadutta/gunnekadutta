@@ -189,14 +189,6 @@ Collaborations • Projects • Opportunities
 
 <br>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=gunnekadutta&bg_color=00000000&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true&custom_title=Contribution%20Activity"
-  width="95%"
-  alt="GitHub activity graph"
-/>
-
-<br><br>
-
 <h2>୨୧ Contribution Snake ୨୧</h2>
 
 <img
